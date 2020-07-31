@@ -1,0 +1,6 @@
+/.gradle
+/.idea/
+app/app.iml
+/build
+local.properties
+BetterDB.iml
